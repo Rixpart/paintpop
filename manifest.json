@@ -1,0 +1,16 @@
+{
+ "version": 1792479133336,
+ "total": 80,
+ "chunks": [
+  {
+   "from": 1,
+   "to": 50,
+   "file": "levels-0001-0050.json"
+  },
+  {
+   "from": 51,
+   "to": 80,
+   "file": "levels-0051-0080.json"
+  }
+ ]
+}
